@@ -1,0 +1,14 @@
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2-sample-package-python/sample_node.py
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2-sample-package-python/__init__.py
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2-sample-package-python/__pycache__/sample_node.cpython-312.pyc
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2-sample-package-python/__pycache__/__init__.cpython-312.pyc
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/share/ament_index/resource_index/packages/ros2-sample-package-python
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/share/ros2-sample-package-python/package.xml
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2_sample_package_python-0.0.0-py3.12.egg-info/PKG-INFO
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2_sample_package_python-0.0.0-py3.12.egg-info/zip-safe
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2_sample_package_python-0.0.0-py3.12.egg-info/top_level.txt
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2_sample_package_python-0.0.0-py3.12.egg-info/requires.txt
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2_sample_package_python-0.0.0-py3.12.egg-info/dependency_links.txt
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2_sample_package_python-0.0.0-py3.12.egg-info/entry_points.txt
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/python3.12/site-packages/ros2_sample_package_python-0.0.0-py3.12.egg-info/SOURCES.txt
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-python/lib/ros2-sample-package-python/test_our_node

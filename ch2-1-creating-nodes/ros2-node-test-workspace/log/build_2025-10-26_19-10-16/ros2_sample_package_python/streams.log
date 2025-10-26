@@ -1,0 +1,32 @@
+[1.100s] Invoking command in '/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/src/ros2_sample_package_python': PYTHONPATH=/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_sample_package_python build --build-base /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build install --record /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/install.log --single-version-externally-managed install_data
+[1.433s] running egg_info
+[1.434s] creating ../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info
+[1.453s] writing ../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info/PKG-INFO
+[1.453s] writing dependency_links to ../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info/dependency_links.txt
+[1.454s] writing entry points to ../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info/entry_points.txt
+[1.454s] writing requirements to ../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info/requires.txt
+[1.454s] writing top-level names to ../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info/top_level.txt
+[1.454s] writing manifest file '../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info/SOURCES.txt'
+[1.499s] reading manifest file '../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info/SOURCES.txt'
+[1.500s] adding license file 'LICENSE'
+[1.500s] writing manifest file '../../build/ros2_sample_package_python/ros2_sample_package_python.egg-info/SOURCES.txt'
+[1.501s] running build
+[1.501s] running build_py
+[1.501s] creating /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build
+[1.502s] creating /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build/lib
+[1.503s] creating /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build/lib/ros2_sample_package_python
+[1.503s] copying ros2_sample_package_python/sample_node.py -> /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build/lib/ros2_sample_package_python
+[1.504s] copying ros2_sample_package_python/__init__.py -> /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build/lib/ros2_sample_package_python
+[1.504s] running install
+[1.522s] running install_lib
+[1.553s] creating /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/lib/python3.12/site-packages/ros2_sample_package_python
+[1.554s] copying /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build/lib/ros2_sample_package_python/sample_node.py -> /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/lib/python3.12/site-packages/ros2_sample_package_python
+[1.554s] copying /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build/lib/ros2_sample_package_python/__init__.py -> /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/lib/python3.12/site-packages/ros2_sample_package_python
+[1.554s] byte-compiling /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/lib/python3.12/site-packages/ros2_sample_package_python/sample_node.py to sample_node.cpython-312.pyc
+[1.556s] byte-compiling /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/lib/python3.12/site-packages/ros2_sample_package_python/__init__.py to __init__.cpython-312.pyc
+[1.556s] running install_data
+[1.556s] creating /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/share/ament_index
+[1.557s] creating /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/share/ament_index/resource_index
+[1.557s] creating /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/share/ament_index/resource_index/packages
+[1.557s] error: can't copy 'resource/ros2_sample_package_python': doesn't exist or not a regular file
+[1.605s] Invoked command in '/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/src/ros2_sample_package_python' returned '1': PYTHONPATH=/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2_sample_package_python/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/ros2_sample_package_python build --build-base /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/build install --record /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2_sample_package_python/install.log --single-version-externally-managed install_data

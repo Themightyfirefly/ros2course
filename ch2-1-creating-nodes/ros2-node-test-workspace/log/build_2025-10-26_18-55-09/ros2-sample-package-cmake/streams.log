@@ -1,0 +1,20 @@
+[0.049s] Invoking command in '/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake -- -j8 -l8
+[0.370s] Invoked command in '/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake -- -j8 -l8
+[0.384s] Invoking command in '/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake
+[0.395s] -- Install configuration: ""
+[0.397s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ament_index/resource_index/package_run_dependencies/ros2-sample-package-cmake
+[0.398s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ament_index/resource_index/parent_prefix_path/ros2-sample-package-cmake
+[0.399s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/environment/ament_prefix_path.sh
+[0.400s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/environment/ament_prefix_path.dsv
+[0.400s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/environment/path.sh
+[0.401s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/environment/path.dsv
+[0.401s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/local_setup.bash
+[0.402s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/local_setup.sh
+[0.402s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/local_setup.zsh
+[0.402s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/local_setup.dsv
+[0.403s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/package.dsv
+[0.403s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ament_index/resource_index/packages/ros2-sample-package-cmake
+[0.404s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/cmake/ros2-sample-package-cmakeConfig.cmake
+[0.405s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/cmake/ros2-sample-package-cmakeConfig-version.cmake
+[0.405s] -- Installing: /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/install/ros2-sample-package-cmake/share/ros2-sample-package-cmake/package.xml
+[0.408s] Invoked command in '/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake

@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: ros2-sample-package-python
+Version: 0.1.0
+Summary: An example package for the RISE ROS tutorial
+Maintainer: root
+Maintainer-email: niklschlueter@gmail.com
+License: Apache-2.0
+Provides-Extra: test
+License-File: LICENSE
