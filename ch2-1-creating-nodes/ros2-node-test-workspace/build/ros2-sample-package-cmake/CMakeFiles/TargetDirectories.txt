@@ -1,0 +1,9 @@
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/uninstall.dir
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/ros2-sample-package-cmake_uninstall.dir
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/test.dir
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/edit_cache.dir
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/rebuild_cache.dir
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/list_install_components.dir
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/install.dir
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/install/local.dir
+/root/ros2course/ch2-1-creating-nodes/ros2-node-test-workspace/build/ros2-sample-package-cmake/CMakeFiles/install/strip.dir
